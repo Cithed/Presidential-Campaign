@@ -1,0 +1,121 @@
+.background{
+    background-image:url(https://previews.123rf.com/images/1stchoice/1stchoice1511/1stchoice151100026/47894521-silver-sparkle-background-abstract-light-grey-design.jpg);
+    margin: 10px 10px;
+}
+
+.container1{
+    display:flex;
+    justify-content: flex-end;
+    border: 10px dotted white;
+    background-color: #faebd7;
+}
+
+.logo2{
+    width: 60px;
+    height: 60px;
+    margin: 20px 950px;
+}
+
+.button{
+    border: 5px solid pink;
+    margin: 10px;
+    padding: 1px 12px;
+    background-color:#f5f5dc;
+    color:#a52a2a;
+    font-family: dosis;
+}
+
+.container2{
+    justify-content: center;
+}
+
+.heading{
+    font-family: dancing script;
+    font-size: 100px;
+    color: #dc143c;
+    text-align: center;
+}
+
+.subcontainer{
+    font-family: dancing script;
+    color: #dc143c;
+    text-align: center;
+    font-size: 45px;
+}
+
+.container3{
+    display: flex;
+    background-color: #faebd7;
+    border: dotted 10px white;
+    width: 100%;
+}
+
+.images1{
+    margin: 10px 10px;
+    width: 40%;
+    height: 40%;
+}
+
+.left{
+    width: 25%;
+    font-family: dancing script;
+    text-align: center;
+    color: #dc143c;
+    border: dotted 10px white;
+    background-color: #faebd7; 
+    margin: 10px;
+}
+
+.right{
+    width: 75%;
+    text-align: center;
+    font-family: dancing script;
+    color: #dc143c;
+    border: dotted 10px white;
+    background-color: #faebd7; 
+    margin: 10px;
+}
+
+.container4{
+    display: flex;
+}
+
+.display{
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+}
+
+.display2{
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+}
+
+.display3{
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+}
+
+.subtitle{
+    font-family: dosis;
+    text-align: center;
+    color: #dc143c;
+    margin: 10px;
+}
+
+.button2{
+    border: 5px solid pink;
+    margin: 10px;
+    padding: 1px 12px;
+    background-color:#f5f5dc;
+    color:#a52a2a;
+    font-family: dosis;
+    font-size: 30px;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+}
